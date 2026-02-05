@@ -1,0 +1,28 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build results
+[Dd]ebug/
+[Dd]ist/
+[Rr]elease/
+x64/
+x86/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
